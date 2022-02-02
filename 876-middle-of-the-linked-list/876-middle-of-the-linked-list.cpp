@@ -10,50 +10,19 @@
  */
 class Solution {
 public:
-    ListNode *l;
     ListNode* middleNode(ListNode* head) {
-        int i=0,n=countNodes(head);
+        if(head==NULL)
+        {
+            return head;
+        }
+        ListNode* slow=head;
+        ListNode* fast=head;
         
-        while(i!=n/2)
+        while(fast!=NULL && fast->next!=NULL)
         {
-            i++;
-            head=head->next;
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        while(head!=NULL)
-        {
-            insertAtEnd(head->val);
-            head=head->next;
-        }
-            
-        return l;
+        return slow;
     }
-    
-    int countNodes(ListNode* head)
-    {
-        int count=0;
-        while(head!=NULL)
-        {
-            head=head->next;
-            count++;
-        }
-        return count;
-    }
-    
-    
-void insertAtEnd(int val)
-{
-    struct ListNode *n = new ListNode(val);
-    struct ListNode *r = l;
-    if (l== NULL)
-    {
-        l=n;
-        return;
-    }
-    while (r->next != NULL)
-    {
-        r = r->next;
-    }
-    r->next = n;
-}
-    
 };
