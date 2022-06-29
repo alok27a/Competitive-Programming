@@ -11,24 +11,24 @@
  */
 class Solution {
 public:
-    int maxlevel=0;
-    vector<int> v;
-    vector<int> rightSideView(TreeNode* root) {
-        rightPrint(root,1);
-        return v;
-    }
-    
-    void rightPrint(TreeNode* root,int level)
+    void printRight(vector<int> &v,TreeNode* root, int level,int &max_level)
     {
         if(root==NULL)
-            return ;
-        if(maxlevel<level)
+            return;
+        if(max_level<level)
         {
             v.push_back(root->val);
-            maxlevel=level;
+            max_level = level;
         }
-        rightPrint(root->right,level+1);
-        rightPrint(root->left,level+1);
-       
+        printRight(v,root->right,level+1,max_level);
+        printRight(v,root->left,level+1,max_level);
+    }
+    
+    vector<int> rightSideView(TreeNode *root)
+    {
+        vector<int> v;
+        int max_level = 0;
+        printRight(v,root,1,max_level);
+        return v;
     }
 };
