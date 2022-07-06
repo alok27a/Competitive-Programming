@@ -31,11 +31,30 @@ class Solution {
         return false;
     }
     
+    bool DFS(vector<int> adj[],int V,int s,int parent,vector<bool> &visited)
+    {
+        visited[s] = true;
+        
+        for(auto v:adj[s])
+        {
+            if(!visited[v])
+            {
+                bool cycle = DFS(adj,V,v,s,visited);
+                if(cycle)
+                    return true;
+            }
+            else if(visited[v]==true && v!=parent)
+            {
+                return true;
+            }
+        }
+    }
+    
     bool isCycle(int V, vector<int> adj[]) {
          vector<bool> visited(V, false);
  
         for(int i = 0; i < V; i++)
-            if(!visited[i] && BFS(adj,V,i, visited))
+            if(!visited[i] && DFS(adj,V,i,-1,visited))
                 return true;
         return false;
     }
