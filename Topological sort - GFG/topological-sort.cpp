@@ -6,46 +6,47 @@ using namespace std;
 class Solution
 {
 	public:
-	void BFS(int V,vector<int> adj[], vector<int> &indegree,vector<int> &res)
+	//Function to return list containing vertices in Topological order. 
+	
+	void topo(int V, vector<int> adj[],stack<int> &st,vector<bool> &visited,int node)
 	{
-	    queue<int> q;
+	    visited[node] = true;
 	    
-	    for(int i=0;i<V;i++)
+	    for(auto v : adj[node])
 	    {
-	        if(indegree[i]==0)
-	            q.push(i);
-	    }
-	    
-	    while(!q.empty())
-	    {
-	        int u = q.front();
-	        q.pop();
-	        res.push_back(u);
-	       // cout<<u<<" ";
-	        
-	        for(auto v : adj[u])
+	        if(visited[v]!=true)
 	        {
-	            indegree[v]--;
-	            if(indegree[v]==0)
-	                q.push(v);
+	            topo(V,adj,st,visited,v);
 	        }
 	    }
+	    
+	   st.push(node);
 	}
+	
 	
 	vector<int> topoSort(int V, vector<int> adj[]) 
 	{
-	    vector<int> indegree(V,0);
+	    vector<bool> visited(V,false);
+	    stack<int> st;
 	    
 	    for(int i=0;i<V;i++)
 	    {
-	        for(auto v: adj[i])
+	        if(!visited[i])
 	        {
-	            indegree[v]++;
+	            topo(V,adj,st,visited,i);
 	        }
 	    }
-        vector<int> res;
-        BFS(V,adj,indegree,res);
-    	return res;   
+	    
+	    vector<int> res;
+	    
+	    while(!st.empty())
+	    {
+	        int a = st.top();
+	        st.pop();
+	       // cout<<a<<" ";
+	        res.push_back(a);
+	    }
+	    return res;
 	}
 };
 
