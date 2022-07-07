@@ -6,8 +6,6 @@ using namespace std;
 class Solution
 {
 	public:
-	//Function to return list containing vertices in Topological order. 
-	
 	void BFS(int V,vector<int> adj[], vector<int> &indegree,vector<int> &res)
 	{
 	    queue<int> q;
