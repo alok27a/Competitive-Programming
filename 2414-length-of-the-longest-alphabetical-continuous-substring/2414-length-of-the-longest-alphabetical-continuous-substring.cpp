@@ -1,17 +1,24 @@
 class Solution {
 public:
     int longestContinuousSubstring(string s) {
+         int n = s.size();
+        int res = INT_MIN,maxi = 1;
         
-        int cnt=1, maxi=1, n=s.size(); 
-        
-        for(int i=0; i<n-1; i++)
+        if(n==1)
+            return 1;
+        for(int i=0;i<n-1;i++)
         {
-            if(s[i]+1 == s[i+1]) 
-                cnt++;
+            if(s[i]+1==s[i+1])
+            {
+                maxi++;
+            }
             else
-                cnt=1;
-            maxi = max(maxi, cnt);   
+            {
+                maxi = 1;
+            }
+            cout<<maxi;
+            res = max(maxi,res);
         }
-        return maxi;
+        return res;
     }
 };
