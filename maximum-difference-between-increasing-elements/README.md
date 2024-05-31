@@ -1,3 +1,4 @@
+[Discussion Post (created on 31/4/2024 at 11:23)](https://leetcode.com/problems/maximum-difference-between-increasing-elements/discuss/5234953/C%2B%2B-O(n)-solution)  
 <h2>2016. Maximum Difference Between Increasing Elements</h2><h3>Easy</h3><hr><div><p>Given a <strong>0-indexed</strong> integer array <code>nums</code> of size <code>n</code>, find the <strong>maximum difference</strong> between <code>nums[i]</code> and <code>nums[j]</code> (i.e., <code>nums[j] - nums[i]</code>), such that <code>0 &lt;= i &lt; j &lt; n</code> and <code>nums[i] &lt; nums[j]</code>.</p>
 
 <p>Return <em>the <strong>maximum difference</strong>. </em>If no such <code>i</code> and <code>j</code> exists, return <code>-1</code>.</p>
