@@ -1,43 +1,41 @@
 class Solution {
 public:
-//     If u get a cycle then return false else true
+    
+    bool dfs(vector<bool>& visited, vector<bool>& inRecStack, vector<int> adj[], int node) {
+        visited[node] = true;
+        inRecStack[node] = true;
+        
+        for (auto v : adj[node]) {
+            if (!visited[v]) {
+                if (dfs(visited, inRecStack, adj, v)) 
+                    return true; // Cycle found
+            } else if (inRecStack[v]) {
+                return true; // Cycle found
+            }
+        }
+        
+        inRecStack[node] = false; // Remove the node from recursion stack
+        return false;
+    }
     
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> indeg(numCourses,0);
-        queue<int> q;
-        
         vector<int> adj[numCourses];
         
-        for(int i=0;i<prerequisites.size();i++)
-        {
+        // Create adjacency list
+        for (int i = 0; i < prerequisites.size(); i++) {
             adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
-            indeg[prerequisites[i][0]] ++;
         }
         
-        for(int i=0;i<indeg.size();i++)
-        {
-            if(indeg[i]==0)
-                q.push(i);
-        }
+        vector<bool> visited(numCourses, false);
+        vector<bool> inRecStack(numCourses, false);
         
-        int count = 0;
-        
-        while(!q.empty())
-        {
-            int curr = q.front();
-            q.pop();
-            
-            for(int i: adj[curr])
-            {
-                indeg[i] --;
-                if(indeg[i] == 0)
-                {
-                    q.push(i);
-                }
+        for (int i = 0; i < numCourses; i++) {
+            if (!visited[i]) {
+                if (dfs(visited, inRecStack, adj, i)) 
+                    return false; // Cycle found
             }
-            count++;
         }
         
-        return (count == numCourses);
+        return true; // No cycle detected
     }
 };
