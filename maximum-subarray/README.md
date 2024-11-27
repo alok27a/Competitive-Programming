@@ -1,3 +1,4 @@
+[Discussion Post (created on 27/10/2024 at 14:50)](https://leetcode.com/problems/maximum-subarray/discuss/6089899/Prefix-Sum-based-approach-or-100-runtime)  
 <h2>53. Maximum Subarray</h2><h3>Easy</h3><hr><div><p>Given an integer array <code>nums</code>, find the contiguous subarray (containing at least one number) which has the largest sum and return <em>its sum</em>.</p>
 
 <p>A <strong>subarray</strong> is a <strong>contiguous</strong> part of an array.</p>
