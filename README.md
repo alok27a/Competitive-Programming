@@ -11,3 +11,19 @@
 This repo contains all of my personal LeetCode solutions.This repository also conatins solution of problems done on GeeksForGeeks, [Alok Mathur](https://leetcode.com/alok27a/).
 
 _All solutions were made with the sole intent of solving the corresponding LeetCode challenge. Solutions may not be as efficient as possible._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
+<!---LeetCode Topics End-->
