@@ -29,6 +29,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | ------- |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/alok27a/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
+| [1170-shortest-common-supersequence](https://github.com/alok27a/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/alok27a/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/alok27a/Competitive-Programming/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
@@ -39,6 +40,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
+| [1170-shortest-common-supersequence](https://github.com/alok27a/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
 | [1524-string-matching-in-an-array](https://github.com/alok27a/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/alok27a/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/alok27a/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
