@@ -18,6 +18,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
+| [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/alok27a/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1524-string-matching-in-an-array](https://github.com/alok27a/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
@@ -57,6 +58,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
 ## Linked List
 |  |
@@ -78,4 +80,28 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
