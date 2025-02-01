@@ -25,6 +25,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/alok27a/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/alok27a/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/alok27a/Competitive-Programming/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3429-special-array-i](https://github.com/alok27a/Competitive-Programming/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
