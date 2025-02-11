@@ -17,6 +17,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/alok27a/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/alok27a/Competitive-Programming/tree/master/0118-pascals-triangle) |
@@ -31,6 +32,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/alok27a/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/alok27a/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/alok27a/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
@@ -88,6 +90,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/alok27a/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
