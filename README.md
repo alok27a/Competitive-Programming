@@ -18,6 +18,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/alok27a/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
@@ -59,6 +60,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
 ## Linked List
@@ -105,4 +107,8 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
