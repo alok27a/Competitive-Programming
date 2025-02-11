@@ -19,6 +19,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | ------- |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/alok27a/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/alok27a/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
@@ -31,6 +32,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/alok27a/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/alok27a/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/alok27a/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/alok27a/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
