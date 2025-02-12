@@ -120,4 +120,12 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/alok27a/Competitive-Programming/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/alok27a/Competitive-Programming/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
