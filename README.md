@@ -17,6 +17,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/alok27a/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/alok27a/Competitive-Programming/tree/master/0056-merge-intervals) |
@@ -128,4 +129,8 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/alok27a/Competitive-Programming/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
