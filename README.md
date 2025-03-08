@@ -18,6 +18,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0015-3sum](https://github.com/alok27a/Competitive-Programming/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/alok27a/Competitive-Programming/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/alok27a/Competitive-Programming/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/alok27a/Competitive-Programming/tree/master/0053-maximum-subarray) |
@@ -104,6 +105,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0015-3sum](https://github.com/alok27a/Competitive-Programming/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/alok27a/Competitive-Programming/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/alok27a/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -145,5 +147,6 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0015-3sum](https://github.com/alok27a/Competitive-Programming/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/alok27a/Competitive-Programming/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/alok27a/Competitive-Programming/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
