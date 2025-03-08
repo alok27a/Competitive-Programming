@@ -1,36 +1,34 @@
 class Solution {
 public:
-    void nextPermutation(vector<int>& array) {
-        // next_permutation(array.begin(), array.end());
+    void nextPermutation(vector<int>& nums) {
+        // Finding the breakpoint 
         int ind = -1;
-        int n = array.size();
-        
-//         Finding the breakpoint
+        int n = nums.size();
         for(int i=n-2;i>=0;i--)
         {
-            if(array[i] < array[i+1])
+            if(nums[i]<nums[i+1])
             {
                 ind = i;
                 break;
             }
         }
-        if(ind==-1)
+        // if ind = -1 then the array is reverse sorted 
+        if(ind == -1)
         {
-            reverse(array.begin(),array.end());
+            reverse(nums.begin(),nums.end());
             return;
         }
-        
-//      Swapping ind with the minimum of the remaining
-        
-        for(int i=n-1;i>ind;i--)
-        {
-            if(array[i]>array[ind])
+
+        // Now swap the A[ind] with least possible value
+        for(int i=n-1;i>ind;i--){
+            if(nums[i]>nums[ind])
             {
-                swap(array[i],array[ind]);
+                swap(nums[i],nums[ind]);
                 break;
-            }
+            }            
         }
-        
-        reverse(array.begin()+ind+1,array.end());
+
+        reverse(nums.begin()+ind+1, nums.end());
+    
     }
 };
