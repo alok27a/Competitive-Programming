@@ -17,6 +17,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/alok27a/Competitive-Programming/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/alok27a/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
@@ -133,4 +134,8 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/alok27a/Competitive-Programming/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
