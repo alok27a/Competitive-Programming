@@ -23,6 +23,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/alok27a/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/alok27a/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/alok27a/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alok27a/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -122,6 +123,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/alok27a/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +136,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/alok27a/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
