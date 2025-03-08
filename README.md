@@ -27,6 +27,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0118-pascals-triangle](https://github.com/alok27a/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alok27a/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/alok27a/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1524-string-matching-in-an-array](https://github.com/alok27a/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
@@ -137,6 +138,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/alok27a/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
