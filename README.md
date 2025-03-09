@@ -81,6 +81,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/alok27a/Competitive-Programming/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
