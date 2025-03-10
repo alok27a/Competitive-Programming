@@ -80,6 +80,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/alok27a/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 ## Stack
@@ -135,10 +136,12 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/alok27a/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/alok27a/Competitive-Programming/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/alok27a/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/alok27a/Competitive-Programming/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 ## Binary Search
