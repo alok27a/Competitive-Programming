@@ -31,6 +31,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0090-subsets-ii](https://github.com/alok27a/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/alok27a/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alok27a/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/alok27a/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
@@ -97,6 +98,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/alok27a/Competitive-Programming/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,6 +137,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/alok27a/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/alok27a/Competitive-Programming/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -168,4 +171,12 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/alok27a/Competitive-Programming/tree/master/0090-subsets-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/alok27a/Competitive-Programming/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/alok27a/Competitive-Programming/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
