@@ -34,6 +34,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0198-house-robber](https://github.com/alok27a/Competitive-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/alok27a/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/alok27a/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/alok27a/Competitive-Programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/alok27a/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
@@ -58,6 +59,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/alok27a/Competitive-Programming/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0018-4sum](https://github.com/alok27a/Competitive-Programming/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/alok27a/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/alok27a/Competitive-Programming/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,6 +167,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0015-3sum](https://github.com/alok27a/Competitive-Programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/alok27a/Competitive-Programming/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/alok27a/Competitive-Programming/tree/master/0031-next-permutation) |
+| [0455-assign-cookies](https://github.com/alok27a/Competitive-Programming/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
