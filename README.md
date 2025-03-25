@@ -41,6 +41,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [1524-string-matching-in-an-array](https://github.com/alok27a/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/alok27a/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/alok27a/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/alok27a/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/alok27a/Competitive-Programming/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3429-special-array-i](https://github.com/alok27a/Competitive-Programming/tree/master/3429-special-array-i) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | ------- |
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/alok27a/Competitive-Programming/tree/master/0455-assign-cookies) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/alok27a/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/alok27a/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
 | ------- |
@@ -121,10 +124,12 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0056-merge-intervals](https://github.com/alok27a/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/alok27a/Competitive-Programming/tree/master/0455-assign-cookies) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/alok27a/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/alok27a/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -185,4 +190,8 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/alok27a/Competitive-Programming/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/alok27a/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
