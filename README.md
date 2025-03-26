@@ -84,6 +84,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/alok27a/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/alok27a/Competitive-Programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/alok27a/Competitive-Programming/tree/master/0952-word-subsets) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/alok27a/Competitive-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -92,6 +93,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | ------- |
 | [0002-add-two-numbers](https://github.com/alok27a/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/alok27a/Competitive-Programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/alok27a/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
