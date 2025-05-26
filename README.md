@@ -31,6 +31,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0090-subsets-ii](https://github.com/alok27a/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/alok27a/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alok27a/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/alok27a/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/alok27a/Competitive-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/alok27a/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/alok27a/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -51,6 +52,7 @@ _All solutions were made with the sole intent of solving the corresponding LeetC
 | [0055-jump-game](https://github.com/alok27a/Competitive-Programming/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/alok27a/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alok27a/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/alok27a/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/alok27a/Competitive-Programming/tree/master/0198-house-robber) |
 | [1025-minimum-cost-for-tickets](https://github.com/alok27a/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/alok27a/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
